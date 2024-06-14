@@ -23,7 +23,7 @@ Plugin has a config file where you can **customize**:
 - ...
 
 # Installation
-Simple drag-n-drop archive contents in your resource folder
+Simply drag-n-drop archive contents in your resource folder
 
 **DON'T RENAME RESOURCE, please** :)
 
@@ -34,9 +34,6 @@ You'll need to add one line in `fxmanifest.lua`:
 
 ### Make sound work
 Plugin uses [PlayCustomSounds](https://github.com/LondonStudios/PlayCustomSounds) to play sound, so you need to install it
-
-**Next step**
-- Put the sound in `resources/PlayCustomSounds/html/sounds/`
 
 ## I think we've done!
 It's my first release, don't judge ;)
