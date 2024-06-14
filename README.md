@@ -19,7 +19,7 @@ In default, you have 2.5 minutes of panic sound and 5 minutes of blip life (*or 
 Plugin has a config file where you can **customize**:
 ---
 - **Compatibility with CC RP Chat**
-- **Delay** of your sound file
+- **Delay** between new execution of your sound (*depends on file lenght*)
 - **Volume** of Panic sound
 - **Translate** all chat and suggestions text
 - ...*any suggestions?*
