@@ -20,7 +20,7 @@ Plugin has a config file where you can **customize**:
 - **Delay** of your sound file
 - **Volume** of Panic sound
 - **Translate** all chat and suggestions text
-- ...
+- ...*any suggestions?*
 
 # Installation
 Simply drag-n-drop archive contents in your resource folder
