@@ -6,7 +6,9 @@ The plugin is written in C# and consists of a FiveM resource and a FivePD plugin
 
 Plugin creates a [blip](https://github.com/DR099H/panic-button-fivepd/assets/147756922/c1091a76-e577-43c1-9669-edee7ad79908) on the map and plays panic sound
 
-It prints messages in chat, so you can find out who activated the button
+Prints player's name in chat who activated panic
+
+You can't use button while you are off duty
 
 When you sit in car, plugin routes you to place where button is activated
 
@@ -23,7 +25,8 @@ Plugin has a config file where you can **customize**:
 - ...*any suggestions?*
 
 # Installation
-Simply drag-n-drop archive contents in your resource folder
+- Download Panic Button in Releases
+- Simply drag-n-drop archive contents in your resource folder
 
 **DON'T RENAME RESOURCE, please** :)
 
