@@ -8,6 +8,9 @@ Plugin creates a [blip](https://github.com/DR099H/panic-button-fivepd/assets/147
 
 Prints player's name in chat who activated panic
 
+![image](https://github.com/DR099H/panic-button-fivepd/assets/147756922/7ee74345-b9cd-44c3-b77f-f231d9dda3fd)
+
+
 You can't use button while you are off duty
 
 When you sit in car, plugin routes you to place where button is activated
