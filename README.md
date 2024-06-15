@@ -22,11 +22,12 @@ Plugin has a config file where you can **customize**:
 - **Delay** between new execution of your sound (*depends on file lenght*)
 - **Number of Repeats** - more info in config
 - **Volume** of Panic sound
+- **Blip Life** duration
 - **Translate** all chat and suggestions text
 - ...*any suggestions?*
 
 # Installation
-- Download Panic Button in Releases
+- Download the [latest release](https://github.com/DR099H/panic-button-fivepd/releases/latest) of Panic Button
 - Simply drag-n-drop archive contents in your resource folder
 
 **DON'T RENAME RESOURCE, please** :)
