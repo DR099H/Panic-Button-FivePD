@@ -20,6 +20,7 @@ Plugin has a config file where you can **customize**:
 ---
 - **Compatibility with CC RP Chat**
 - **Delay** between new execution of your sound (*depends on file lenght*)
+- **Number of Repeats** - more info in config
 - **Volume** of Panic sound
 - **Translate** all chat and suggestions text
 - ...*any suggestions?*
